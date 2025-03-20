@@ -101,7 +101,6 @@ declare -A -r API_URLS=(
     ["worldchain"]="https://safe-transaction-worldchain.safe.global"
     ["xlayer"]="https://safe-transaction-xlayer.safe.global"
     ["zksync"]="https://safe-transaction-zksync.safe.global"
-    ["ronin"]="https://safe-transaction-ronin.safe.onchainden.com/api"
 )
 
 # Define the chain IDs of the supported networks from the Safe transaction service.
