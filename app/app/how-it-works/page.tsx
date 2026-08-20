@@ -215,9 +215,9 @@ export default function HowItWorks() {
         </CardHeader>
         <CardContent>
           <p>
-            The app supports multiple networks, including Ethereum, Polygon,
-            Arbitrum, and more. For a full list of supported networks, please
-            refer to the network selection dropdown on the main page.
+            The app supports the Ronin network — Ronin mainnet and the Ronin
+            (Saigon) test network. For the full list, please refer to the
+            network selection dropdown on the main page.
           </p>
         </CardContent>
       </Card>
